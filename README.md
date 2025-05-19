@@ -70,13 +70,23 @@ __COMMAND AND OUTPUT__
 
 __COMMAND AND OUTPUT__
 
-![alt text](image-7.png)
-
+![alt text](image-18.png)
+![alt text](image-19.png)
+![alt text](image-20.png)
+![alt text](image-21.png)
+![alt text](image-22.png)
+![alt text](image-23.png)
+![alt text](image-24.png)
+![alt text](image-25.png)
+![alt text](image-26.png)
+![alt text](image-27.png)
 ## Compare the file hello.txt and rose.txt
 
  __COMMAND AND OUTPUT__
 
 ![alt text](image-8.png)
+
+
 
 ## Exercise 2: Advanced Batch Scripting
 __1__.Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
